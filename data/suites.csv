@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","161","testa a página da política de privacidade de forma independente","","Wed Oct 09 00:52:56 UTC 2024","passed","Wed Oct 09 00:52:57 UTC 2024","","","",""
+"","1414","preenche os campos obrigatórios e envia o formulário","","Wed Oct 09 00:52:52 UTC 2024","passed","Wed Oct 09 00:52:53 UTC 2024","","Central de Atendimento ao Cliente TAT","",""
+"","153","verifica o título da aplicação","","Wed Oct 09 00:52:52 UTC 2024","passed","Wed Oct 09 00:52:52 UTC 2024","","Central de Atendimento ao Cliente TAT","",""
