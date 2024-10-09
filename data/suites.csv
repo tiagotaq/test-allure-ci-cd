@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","1362","preenche os campos obrigatórios e envia o formulário","","Wed Oct 09 16:24:42 UTC 2024","passed","Wed Oct 09 16:24:43 UTC 2024","","Central de Atendimento ao Cliente TAT","",""
-"","158","testa a página da política de privacidade de forma independente","","Wed Oct 09 16:24:47 UTC 2024","passed","Wed Oct 09 16:24:47 UTC 2024","","","",""
-"","4343","verifica o título da aplicação","","Wed Oct 09 16:24:38 UTC 2024","failed","Wed Oct 09 16:24:42 UTC 2024","","Central de Atendimento ao Cliente TAT","",""
+"","1398","preenche os campos obrigatórios e envia o formulário","","Wed Oct 09 16:29:46 UTC 2024","passed","Wed Oct 09 16:29:47 UTC 2024","","Central de Atendimento ao Cliente TAT","",""
+"","169","testa a página da política de privacidade de forma independente","","Wed Oct 09 16:29:51 UTC 2024","passed","Wed Oct 09 16:29:51 UTC 2024","","","",""
+"","4367","verifica o título da aplicação","","Wed Oct 09 16:29:41 UTC 2024","failed","Wed Oct 09 16:29:46 UTC 2024","","Central de Atendimento ao Cliente TAT","",""
